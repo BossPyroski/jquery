@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* outline: 1px dotted red; */
+}
+
+#container{
+    padding-top: 100px;
+    width:181px;
+    margin: 0 auto;
+}
+#container img{
+    margin-top: -4px;
+}
